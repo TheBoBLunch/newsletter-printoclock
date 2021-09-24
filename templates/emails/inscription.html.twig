@@ -1,0 +1,8 @@
+<h1>Votre inscription</h1>
+
+<p>Vous avez été inscrit avec succès à la (aux) Newsletter(s) : 
+{% for categorie in user.categories %}
+                {{categorie.name}} -
+            {% endfor %}</p>
+
+<p>Cliquez sur ce lien poour confirmer votre inscription : <a href="{{ absolute_url(path('newsletters_confirm', {id: user.id, token: token})) }}">ici</a></p>
