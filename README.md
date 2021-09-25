@@ -23,6 +23,7 @@ newsletter}. Ce n’est pas du SPAM :)
 
 L'abonné peux directement se désinscrire en cliquant sur un lien unique, 
 et gérer ses différents abonnements via un autre lien. Ex :
+
 Bienvenue {prenom},
 Vous recevez cet email car vous êtes abonné à la newsletter {nom de la
 newsletter}.
