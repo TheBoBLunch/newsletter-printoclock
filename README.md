@@ -15,15 +15,15 @@ Exemple de contenu du mail après inscription :
 Un traitement de l’envoi par queue sera apprécié. 
 Exemple de newsletter envoyé :
 
-Bienvenue {prenom},
+"Bienvenue {prenom},
 Vous recevez cet email car vous êtes abonné à la newsletter {nom de la
-newsletter}. Ce n’est pas du SPAM :)
+newsletter}. Ce n’est pas du SPAM :)"
 
 L'abonné peux directement se désinscrire en cliquant sur un lien unique, 
 et gérer ses différents abonnements via un autre lien. Ex :
 
-Bienvenue {prenom},
+"Bienvenue {prenom},
 Vous recevez cet email car vous êtes abonné à la newsletter {nom de la
 newsletter}.
 Ce n’est pas du SPAM :)
-Cliquez ici pour vous désinscrire / Cliquez ici pour modifier vos abonnements
+Cliquez ici pour vous désinscrire / Cliquez ici pour modifier vos abonnements"
