@@ -10,9 +10,7 @@ Un email de confirmation est envoyé à l'utilasateur après inscription à un
 
 Exemple de contenu du mail après inscription :
 
-Vous avez été inscrit avec succès à la Newsletter : {nom de la newsletter}
-Enfin, envoyer une newsletter (contenu statique) à tous les inscrits via une commande
-symfony qui prendra en paramètre l’id de la newsletter. 
+"Vous avez été inscrit avec succès à la Newsletter : {nom de la newsletter}" 
 
 Un traitement de l’envoi par queue sera apprécié. 
 Exemple de newsletter envoyé :
